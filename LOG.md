@@ -11,3 +11,9 @@
 - Finished the $BULL Phase 2 audit and filed two Minor findings by email (F1 MCP signing guard gap, F2 legacy escrow receipt); the first sends bounced on Gmail's .mjs block, so both were resent as .txt and confirmed delivered.
 - Audited BrainChain Phase 2: no paid-tier finding, filed one credit-only hardening note; FairScale and Boundless checked out as not bounties.
 - XE-14019 closed as a duplicate, no award; XE-14020 and XE-14021 still open and awaiting triage.
+
+## 2026-11-18 — Day 3
+- Bytera Marketplace bug bounty audit started on Bugcrowd: Phase 1 done, Jira and Confluence test instance set up with Spotlight and Pulse installed.
+- Brainrot Obby Rush built for the make.fun Roblox bounty: 12-stage neon obby, 10 collectible characters, recording sealed, GitHub push next.
+- X bounty sweep surfaced three new programmes: BoursoBank, Anker and Bytera.
+- Mossminds plant tended to stage 11, one tend from harvest at stage 12.

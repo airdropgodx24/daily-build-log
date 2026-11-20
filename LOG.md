@@ -22,3 +22,8 @@
 - Nosana explainer thread drafted and approved, Nosa feedback filed on Superteam as entry 58.
 - Terac and Claru verified, user chose Terac and signup is under way; Truelancer and Monica verified too.
 - Roblox Brainrot entry count is 70, publish tonight, submit before Fri 15:30 WAT.
+## 2026-11-20 — Day 5
+- Published Brainrot Obby Rush to Roblox via the Open Cloud API, version 5 of the start place, after Studio uploads kept hanging all night.
+- Mossminds plant hit stage 12 and harvested for 196.911 DEW, balance now about 986.575 DEW.
+- Bull F1 and F2 resends failed for good, Gmail says Bull's mail server timed out, so a resend decision is still owed.
+- GreenBall360 has no games today or tomorrow, so the Ironman daily prediction streak is stuck waiting on fixtures.

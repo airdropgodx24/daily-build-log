@@ -27,3 +27,9 @@
 - Mossminds plant hit stage 12 and harvested for 196.911 DEW, balance now about 986.575 DEW.
 - Bull F1 and F2 resends failed for good, Gmail says Bull's mail server timed out, so a resend decision is still owed.
 - GreenBall360 has no games today or tomorrow, so the Ironman daily prediction streak is stuck waiting on fixtures.
+
+## 2026-11-21 — Day 6
+- make.fun daily sweep entered and submitted five free competitions: news image, csv reader speed, spot the difference game, poster, and joke about the demo. All passed the server validity checks so far.
+- TxFlow Phase 2 finished: one proven finding drafted, a cross type signature replay on testnet with a runnable PoC. KYC clarification email sent to security@txflow.com.
+- Mossminds plant tended and checked in, stage 6, DEW 986.575. Harvest waits for stage 12.
+- Bug bounty sweep surfaced two disclosure candidates, Mishmar and Agora Finance, both awaiting the user's go-ahead before any audit.

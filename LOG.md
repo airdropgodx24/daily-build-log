@@ -33,3 +33,9 @@
 - TxFlow Phase 2 finished: one proven finding drafted, a cross type signature replay on testnet with a runnable PoC. KYC clarification email sent to security@txflow.com.
 - Mossminds plant tended and checked in, stage 6, DEW 986.575. Harvest waits for stage 12.
 - Bug bounty sweep surfaced two disclosure candidates, Mishmar and Agora Finance, both awaiting the user's go-ahead before any audit.
+
+## 2026-11-22 — Day 7
+- SaabFi Phase 2 finished clean, nothing fileable; the pool is idle and unfunded.
+- Probly Phase 2 blocked at account creation, then the user created both test accounts himself on his phone.
+- make.fun bring-the-humans-03 submitted, then TikTok removed the video and banned the account; appeal route lined up.
+- RAY AI Step 1 assessment did not pass, so that application is closed.

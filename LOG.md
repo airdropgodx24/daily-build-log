@@ -49,3 +49,15 @@
 - Bug bounty bench: scope recheck pass finished, all 26 gap programmes rechecked with zero fileable findings; SaabFi, BoursoBank and PredictAsiaX re-closed.
 - Jobs sweep: four qualifying leads flagged, three Micro1 support roles and a Basecode data entry internship.
 - Mossminds plant tended to stage 11, GreenBall360 banked 2 of 7 on 23 Nov.
+
+## 2026-11-25 — Day 10
+- LabelForge App 2 finished and the site went live on Netlify with 388 tests passing. Live run verdict was solid but basic looking, so UI polish is next.
+- TxFlow Phase 2b finished and finding 2 was filed as Medium. Finding 1 closed as a duplicate with no award.
+- Bugcrowd identity verification passed. Coveo credentials sync was filed on Intigriti as Medium, with two more drafts saved behind the slot limit.
+- Lit Protocol five reports filed by email. make.fun news image and Sizzle & Serve cooking game both submitted.
+
+## 2026-11-26 — Day 11
+- Sent the TxFlow finding 2 supplement after the settlement check showed the expected accrual did not credit. Still claimed as Medium.
+- Firo Phase 1 and Phase 2 read level audit finished across 8 lanes. Nothing fileable, nothing filed.
+- Submitted four make.fun entries today: internet in one word, Skyline Courier, news image for 26 Nov, and StatAtlas. First win landed at 8th place for $0.25 pending.
+- Mossminds plant harvested at stage 12 for 196.911 DEW, balance now about 1577 DEW.

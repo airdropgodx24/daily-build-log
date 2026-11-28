@@ -67,3 +67,9 @@
 - Guild CBRN questionnaire submitted and the 6 page home assignment uploaded for review.
 - Two more make.fun entries submitted: thankful judge piece and desk-pvsnp Patient Locus.
 - Mercor project interest form sent. Platform watches ran as usual, Coveo slot still in triage.
+
+## 2026-11-28 — Day 13
+- Completed Braavos Wallet Phase 1 and Phase 2 audits; Phase 2 closed clean with one parked lead, nothing filed.
+- Completed CUBISwap Phase 1 review; ruled it out as NO-GO for weak payout prospects and no submission route.
+- Registered for Symphony Prelude via the Agentic Wallet and received Pass 426; prepared the melody entry for make.fun.
+- Built the overnight betting slate for 28 Nov (65 matches modelled) and priced the slips; kept routine platform watches running.
